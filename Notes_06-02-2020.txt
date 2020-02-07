@@ -1,0 +1,40 @@
+CODENAME: Disillusioned
+
+Team Members: Moobien, ChonkE, XCorsair, Freja 'that chick' Feather.
+
+Basic Premise of Project:
+
+1) A fun yet challenging sub story for Mechwarrior 5
+2) Rewards of Custom Mechs and Voiced Pilots
+
+Scope of Project:
+
+1) New custom hero Pilots
+2) Custom Experimental Mech Variants
+3) Chained story events and missions
+
+Pilot/Mech Info:
+
+Moobien: STK-Reindemon  Long Range Fire support. 
+ChonkE: HBK-Bandit (medium harassment)
+Corsair: RVN- Eimyrja  (Shotgun Raven)
+Freja: Brawler: AS7-Immortalem or AS7-IM
+
+AS7-Immortalem - "An Atlas built by a pilot with one wish. To outrun her mistakes. Said to be Immortal this young woman fought countless battles. Through luck, and a little bit of silver tongue she became known as a a fearsome pilot. Until one day she vanished, said to be a lost spirit of the world this Atlas wanders in search of the one who got away. The devil taking it's dues. The AS7-Immortalem has odd creeks and rattles despite it's unusual armor profile and firepower. Said to house the spirit of the girl who ran from the cosmos. Legend has it you can hear her say. "It's a long road to voy" Over the crackling speakers late at night."
+
+2 Variants of each mech will exist. 1 version is the version players earn as a reward, 2nd variant is the mission boss variant which will provide challenge to players.
+
+Pilot Notes:
+
+XCorsair - 'Eimyrja', discovered in the dying embers of a city torn by war. Rebuilt with care and attention from the salvage of the foes who surrounded her. Like a phoenix which rises from its own ashes, with a new name, a new purpose and a new pilot, to bring hell to her enemies.
+Freja - 'Omen' A girl given that nickname because she heralded destruction wherever she went, stealing mech after mech to stay alive. Till one day, she got caught. A string of bad luck, and bad choices, finally caught up to her.
+ChonkE - 
+Moobien - 'Zophiel' - Sniper and former intelligence operative.
+
+To Do:
+
+1) Moobien to make github repo for this project.
+2) All team members get headshot to XCorsair
+3) All team members to flesh out their pilot and mech.
+4) Moobien to brainstorm mission ideas
+
